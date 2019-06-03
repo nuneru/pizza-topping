@@ -1,0 +1,26 @@
+h1{
+  padding: 10px;
+}
+.checkbox{
+  padding: 10px;
+  display: flex;
+  flex-flow: column;
+}
+.relative{
+  position: relative;
+}
+.kiji{
+  position: absolute;
+}
+.cheese{
+  display: none;
+  position: absolute;
+}
+.tomato{
+  display: none;
+  position: absolute;
+}
+.sarami{
+  display: none;
+  position: absolute;
+}
